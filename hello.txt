@@ -1,5 +1,3 @@
-Halo Dunia Baru
 
-Kontributor: ini adalah deskripsi dari development branch
+Tolong review kode ini mas
 
-Commit squash baru 3
