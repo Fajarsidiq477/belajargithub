@@ -2,8 +2,4 @@ Halo Dunia Baru
 
 Kontributor: ini adalah deskripsi dari development branch
 
-Kontributor2: Tambahan deskripsi lagi bos
-
-File baru banget
-
 Commit squash baru 3
