@@ -1,3 +1,5 @@
 Halo Dunia Baru
 
 Kontributor: ini adalah deskripsi dari development branch
+
+Squash 1
