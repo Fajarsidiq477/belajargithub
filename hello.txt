@@ -6,4 +6,4 @@ Kontributor2: Tambahan deskripsi lagi bos
 
 File baru banget
 
-Commit squash 3
+Commit squash baru 1
