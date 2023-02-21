@@ -2,4 +2,4 @@ Halo Dunia Baru
 
 Kontributor: ini adalah deskripsi dari development branch
 
-Squash 3
+Commit squash baru 3
